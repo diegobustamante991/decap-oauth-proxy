@@ -2,5 +2,14 @@
   "name": "decap-cms-oauth-proxy",
   "version": "1.0.0",
   "private": true,
-  "description": "OAuth proxy for Decap CMS on Amplify — deploy to Vercel"
+  "type": "module",
+  "description": "OAuth proxy for Decap CMS on Amplify — deploy to Vercel",
+  "scripts": {
+    "build:knowledge": "node scripts/build-knowledge.mjs"
+  },
+  "devDependencies": {
+    "mammoth": "^1.8.0",
+    "pdf-parse": "^1.1.1",
+    "xlsx": "^0.18.5"
+  }
 }

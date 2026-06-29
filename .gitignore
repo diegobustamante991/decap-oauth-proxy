@@ -1,0 +1,10 @@
+node_modules/
+.vercel/
+.DS_Store
+*.log
+
+# Raw private source docs stay local only. The compiled text
+# (api/_knowledge.extra.js) is what gets committed and deployed.
+knowledge/*
+!knowledge/README.md
+!knowledge/.gitkeep
