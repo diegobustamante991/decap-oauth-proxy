@@ -148,6 +148,6 @@ Bachelor of Arts and Communication in Graphic Design, University of Buenos Aires
 # Contact
 - About page: /about
 - Email: hello@diegobustamante.com
-- LinkedIn: https://linkedin.com/in/diegobustamante
+- LinkedIn: https://www.linkedin.com/in/diegoezbustamante/
 - Resume: available to download on the About page.
 `;
